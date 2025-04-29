@@ -1,8 +1,8 @@
 # Performance Audit 
 
-Dit project richt zich op het analyseren en verbeteren van de prestaties van websites met behulp van drie populaire tools: **Lighthouse**, **WebPageTest**, en **PageSpeed Insights**.
+Dit project richt zich op het analyseren van de prestaties van [Tap Air Portugal website](https://www.flytap.com/en-nl) met behulp van drie populaire tools: **Lighthouse**, **WebPageTest**, en **PageSpeed Insights**.
 
-## Fly tap Portugal
+## Tap Air Portugal
 
 ### [1. Lighthouse](https://github.com/Karima002/performance-audit-/wiki/Lighthouse-test)
 Lighthouse geautomatiseerde tool van Google die websiteprestaties analyseert op verschillende gebieden:
