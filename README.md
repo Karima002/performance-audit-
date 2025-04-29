@@ -1,18 +1,38 @@
 # Performance Audit 
 
-Doe een Performance audit op een bestaande website uit je eigen omgeving en rapporteer daarover.
+Dit project richt zich op het analyseren en verbeteren van de prestaties van websites met behulp van drie populaire tools: **Lighthouse**, **WebPageTest**, en **PageSpeed Insights**.
 
-De instructies van deze opdracht staan in [INSTRUCTIONS](https://github.com/fdnd-task/performance-audit/blob/main/docs/INSTRUCTIONS.md).
- 
+## Fly tap Portugal
 
-## Titel Website
+### [1. Lighthouse](https://github.com/Karima002/performance-audit-/wiki/Lighthouse-test)
+Lighthouse geautomatiseerde tool van Google die websiteprestaties analyseert op verschillende gebieden:
+- Prestaties
+- Toegankelijkheid
+- Best practices
+- SEO
+- Progressive Web App (PWA)
 
-Welke website heb je getest? Beschrijf de website en voeg een screenshot toe.
+Lees de volledige test en resultaten in de [Lighthouse Wiki](https://github.com/Karima002/performance-audit-/wiki/Lighthouse-test).
 
-Toon screenshots van het Lighthouse Performance testresultaat voor Mobile, Desktop, de Core Web Vitals Assessment van PageSpeed Insights (als die beschikbaar is) en de waterfall chart van WebPageTest.
+---
 
-Schrijf een samenvatting van de testbevindingen, en link naar je Wiki voor de volledige documentatie van je onderzoek.
+### [2. WebPageTest](https://github.com/Karima002/performance-audit-/wiki/WebPageTest)
+WebPageTest biedt diepgaande inzichten in laadtijd, resourcegebruik en verbeterpunten. Je kunt hiermee:
+- Verschillende browsers en locaties testen
+- Waterfall-diagrammen en Core Web Vitals analyseren
+- Real-world performance simuleren
 
-## Licentie
+Bekijk de analyse op de [WebPageTest Wiki](https://github.com/Karima002/performance-audit-/wiki/WebPageTest).
 
+---
+
+### [3. PageSpeed Insights](https://github.com/Karima002/performance-audit-/wiki/PageSpeed-Insights)
+PageSpeed Insights combineert gegevens van Lighthouse met real-user data (Chrome UX Report). Het geeft:
+- Mobiele en desktop scores
+- Verbeterpunten per metric
+- Lab en veldgegevens
+
+Resultaten zijn te vinden in de [PageSpeed Insights Wiki](https://github.com/Karima002/performance-audit-/wiki/PageSpeed-Insights).
+
+---
 This project is licensed under the terms of the [MIT license](./LICENSE).
